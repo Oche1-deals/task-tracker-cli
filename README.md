@@ -1,3 +1,10 @@
+## 🌐 Project Repository
+
+GitHub: https://github.com/Oche1-deals/task-tracker-cli
+
+This project is a Java-based CLI Task Tracker with file persistence and layered architecture.
+
+
 # Task Tracker CLI
 
 A simple command-line Task Tracker application built in Java.  
@@ -103,6 +110,7 @@ Add Spring Boot REST API version
 Add user authentication
 Add priority levels
 Improve JSON parsing with libraries
+
 
 Author
 Raphael Odoh
