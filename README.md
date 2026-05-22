@@ -1,9 +1,9 @@
 # Task Tracker CLI
 
-## 🌐 Project Repository
+## Project URL
 https://github.com/Oche1-deals/task-tracker-cli
 
-A Java CLI Task Tracker with file-based JSON storage and layered architecture (Service, Storage, Model).
+A Java-based CLI Task Tracker with file-based JSON storage and layered architecture.
 # Task Tracker CLI
 
 A simple command-line Task Tracker application built in Java.  

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6bc969c-18cd-4f25-b924-9c94317155d3" name="Changes" comment="updated readme file" />
+    <list default="true" id="f6bc969c-18cd-4f25-b924-9c94317155d3" name="Changes" comment="updated readme file again">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,12 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1779440579339</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated readme file again">
+      <option name="closed" value="true" />
+      <created>1779441095783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779441095783</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" first commit" />
     <MESSAGE value="updated readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated readme file" />
+    <MESSAGE value="updated readme file again" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated readme file again" />
   </component>
 </project>
